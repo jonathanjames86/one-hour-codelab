@@ -5,3 +5,6 @@
 h3:not(:first-child) {
     margin-top: 3em;
 }
+.betting-panel material-radio {
+    width: 100%;
+}
